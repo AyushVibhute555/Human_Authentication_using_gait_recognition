@@ -9,5 +9,6 @@ You have to provide minimum 5 walking video per person as input enrolment. Provi
 seconnd folder of Gait_Authentication_Gui which supports gui this is fully functional gait model with accuracy 85% to 95% if there is any kind of error or how to run? problem then contact me on LinkdIn. 
 
 workflow👇👇
-![image](https://github.com/user-attachments/assets/4914aa47-dcb4-4058-a412-a6cc5ff4095f)
+![image](https://github.com/user-attachments/assets/0c3cf6f2-8cf8-4d3e-85ce-34ff64f14b14)
+
 
